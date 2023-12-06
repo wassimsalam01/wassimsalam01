@@ -3,7 +3,7 @@
 - ⚡ I’m currently finishing up my M.Sc. thesis in Bioinformatics at Freie Universität Berlin, and open for work
 - 🔭 My thesis topic revolved around the analysis of Differentially Methylated Regions (DMR) in a triploid asexual Arctic _Daphnia pulicaria_ population, which will be made public here in the future
   - 🌱 I used nf-core/methylseq to analyse WGBS data. I successfully created an insitutional configuration profile for my university's HPC system _Curta_, which can be checked out here: [FUB Curta](https://nf-co.re/configs/fub_curta)
-  - 😄 Part of my thesis revolved around creating a pipeline to compute an alternate reference genome for a triploid asexual Arctic _Daphnia pulicaria_, which is already available here: [Snakemake Pipeline](https://github.com/wassimsalam01/snakemake-triploid-alt-ref-genome-pipeline) 
+  - 😄 Part of my thesis entailed creating a pipeline to compute an alternate reference genome for said triploid asexual Arctic _Daphnia pulicaria_, which is already available here: [Snakemake Pipeline](https://github.com/wassimsalam01/snakemake-triploid-alt-ref-genome-pipeline) 
 - 📫 How to reach me: wassimsalam49@gmail.com
 <!--
 **wassimsalam01/wassimsalam01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
